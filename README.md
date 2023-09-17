@@ -9,3 +9,4 @@ Arduino used to build IOT products. Wow this is cool. I can automate my life???
 
 Day 1:
 - First of all, install the board driver. I am using ESP32-S3-WROOM-1. I dont know what it do right now, but it sure is cool.
+- I am having a hard time figuring out what board this is and how to upload code and there is a lot of error. Please help me :')
