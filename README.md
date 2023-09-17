@@ -6,3 +6,6 @@ setup = run once
 loop = run forever (to detect things or just simply keep running)
 
 Arduino used to build IOT products. Wow this is cool. I can automate my life???
+
+Day 1:
+- First of all, install the board driver. I am using ESP32-S3-WROOM-1. I dont know what it do right now, but it sure is cool.
