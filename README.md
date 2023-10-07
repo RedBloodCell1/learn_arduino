@@ -14,3 +14,5 @@ Day 1:
 Day 2:
 Im officially depressed. Yayy, can i really finish my thesis? Can i really do this? I changed yet again. Now im dumb again. But i know at the end i need to finish everything and everything and that's why i will finish it. Im lazy, this laziness come from depression and fear of failing, but once again, i know that at the end i need to finish the thing i started and thats why i need to start doing things. But it is so hard and i don't wanna do it anymore. Should i be counter productive? Nah. I will learn arduino tutorial today. Frick it.
   
+Day 3:
+I just came back from my holiday and after that im sick. Now im back to work. no BS i will just do it
